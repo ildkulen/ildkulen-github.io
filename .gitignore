@@ -1,0 +1,14 @@
+# Node modules (npm dependencies)
+node_modules/
+
+# Tailwind output files
+src/output.css
+
+
+# System-specific files for pictures of content
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files if errors occur
+npm-debug.log
+yarn-error.log
